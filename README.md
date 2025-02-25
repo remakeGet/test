@@ -8,3 +8,7 @@
 
 Мы запускаем регистрацию на бетатестирование. Пожалуйста, напишите свои контакты на адрес [NeuroStartUp@nsu.io](mailto:NeuroStartUp@nsu.io).
 
+Задача 1. https://github.com/remakeGet/NeuroStartUp
+Задача 2. https://github.com/remakeGet/NeuroStartUp/tree/new-text
+Задача 3. https://github.com/remakeGet/test
+
